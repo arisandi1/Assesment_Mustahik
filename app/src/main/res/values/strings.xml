@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AssessmentMustahik</string>
+    <string-array name="Pilihpendtotal">
+        <item>--Pilih--</item>
+        <item>Tidak Memiliki Pendapatan Total</item>
+        <item>Rp. 100.000,00 s.d Rp. 150.000,00</item>
+        <item>Rp. 150.000,00 s.d Rp. 200.000,00</item>
+        <item>Rp. 200.000,00 s.d Rp. 250.000,00</item>
+        <item>Rp. 250.000,00 s.d Rp. 300.000,00</item>
+        <item>Rp. 300.000,00 s.d Rp. 350.000,00</item>
+        <item>Rp. 350.000,00 s.d Rp. 400.000,00</item>
+        <item>Rp. 400.000,00 s.d Rp. 450.000,00</item>
+        <item>Rp. 450.000,00 s.d Rp. 500.000,00</item>
+        <item> > Rp. 500.000,00 (Rp.............</item>
+    </string-array>
+
+    <string-array name="pilihstatus">
+        <item>--Pilih--</item>
+        <item>Milik Sendiri</item>
+        <item>Sewa</item>
+        <item>Milik Kerabat</item>
+        <item>Lain-lain</item>
+    </string-array>
+
+</resources>
