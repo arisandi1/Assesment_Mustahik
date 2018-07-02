@@ -37,11 +37,12 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Nama \t\t:"/>
+                        android:text="No Identitas \t\t\t\t\t\t\t\t\t:"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text=""/>
+                        android:text=""
+                        android:id="@+id/nomor_identitas"/>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -51,7 +52,18 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Ktp \t\t:"/>
+                        android:text="Nama \t\t\t\t\t\t\t\t\t\t\t\t\t\t:"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="10dp">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Tempat Lahir \t\t\t\t\t\t\t\t:"/>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -61,7 +73,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="No. KTP \t\t:"/>
+                        android:text="Tanggal Lahir \t\t\t\t\t\t\t\t:"/>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -71,7 +83,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Tempat Lahir \t\t:"/>
+                        android:text="Pekerjaan \t\t\t\t\t\t\t\t\t\t:"/>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -81,7 +93,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Tanggal Lahir\t\t:"/>
+                        android:text="Pendidikan \t\t\t\t\t\t\t\t\t:"/>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -91,7 +103,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Pekerjaan \t\t:"/>
+                        android:text="Alamat \t\t\t\t\t\t\t\t\t\t\t\t:"/>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -101,7 +113,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Pendidikan \t\t:"/>
+                        android:text="Desa/Kelurahan \t\t\t\t\t\t:"/>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -111,27 +123,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Alamat \t\t:"/>
-                </LinearLayout>
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal"
-                    android:layout_marginTop="10dp">
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="Desa/Kelurahan \t\t:"/>
-                </LinearLayout>
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal"
-                    android:layout_marginTop="10dp">
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="Kecamatan \t\t:"/>
+                        android:text="Kecamatan \t\t\t\t\t\t\t\t\t:"/>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
@@ -152,20 +144,20 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Provinsi \t\t:"/>
+                        android:text="Provinsi \t\t\t\t\t\t\t\t\t\t\t:"/>
                 </LinearLayout>
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:orientation="horizontal"
-                    android:layout_marginTop="10dp"
+                    android:layout_marginTop="20dp"
                     android:gravity="center">
 
                     <Button
                         android:id="@+id/back"
                         android:layout_width="100dp"
                         android:layout_height="50dp"
-                        android:onClick="simpan"
+                        android:onClick="back"
                         android:text="Back"
                         android:layout_marginLeft="10dp"/>
 
@@ -173,7 +165,7 @@
                         android:layout_width="100dp"
                         android:layout_height="50dp"
                         android:id="@+id/next"
-                        android:onClick="simpan"
+                        android:onClick="next"
                         android:text="Next"
                         android:layout_marginRight="10dp"/>
 

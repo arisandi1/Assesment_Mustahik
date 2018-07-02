@@ -27,12 +27,12 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="vertical"
-                android:gravity="center">
+                android:gravity="center"
+                android:onClick="biodata">
                 <ImageView
                     android:layout_width="64dp"
                     android:layout_height="64dp"
-                    android:background="#cdd1d2"
-                    android:src="@drawable/aris"
+                    android:src="@drawable/sandi"
                     android:padding="10dp"/>
                 <TextView
                     android:layout_width="wrap_content"
@@ -67,7 +67,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="vertical"
-                android:gravity="center">
+                android:gravity="center"
+                android:onClick="petik">
                 <ImageView
                     android:layout_width="64dp"
                     android:layout_height="64dp"

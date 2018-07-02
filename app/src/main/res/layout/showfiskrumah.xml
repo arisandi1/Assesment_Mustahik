@@ -53,7 +53,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Luas Tanah \t\t:"/>
+            android:text="Luas Tanah\t\t \t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -67,7 +67,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Atap \t\t:"/>
+            android:text="Atap \t\t\t\t\t\t\t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -81,7 +81,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Lantai \t\t:"/>
+            android:text="Lantai \t\t\t\t\t\t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -95,7 +95,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Dinding \t\t:"/>
+            android:text="Dinding \t\t\t\t\t\t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -123,7 +123,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Jika Sewa \t\t:"/>
+            android:text="Jika Sewa \t\t\t\t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -137,7 +137,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Listrik \t\t:"/>
+            android:text="Listrik \t\t\t\t\t\t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -151,7 +151,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Kamar Mandi \t\t:"/>
+            android:text="Kamar Mandi \t\t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -165,7 +165,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Jamban \t\t:"/>
+            android:text="Jamban \t\t\t\t\t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -179,7 +179,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="PAM \t\t:"/>
+            android:text="PAM \t\t\t\t\t\t\t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -193,7 +193,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Telepon/HP \t\t:"/>
+            android:text="Telepon/HP \t\t\t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -207,7 +207,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="TV \t\t:"/>
+            android:text="TV \t\t\t\t\t\t\t\t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -221,7 +221,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Radio/Tape \t\t:"/>
+            android:text="Radio/Tape \t\t\t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -235,7 +235,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="VCD/DVD\t\t:"/>
+            android:text="VCD/DVD \t\t\t\t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -249,7 +249,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Motor\t\t:"/>
+            android:text="Motor \t\t\t\t\t\t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -262,7 +262,7 @@
          <TextView
              android:layout_width="wrap_content"
              android:layout_height="wrap_content"
-             android:text="Mesin Cuci \t\t:"/>
+             android:text="Mesin Cuci \t\t\t\t:"/>
         <TextView
              android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -276,7 +276,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Kompor Gas \t\t:"/>
+            android:text="Kompor Gas \t\t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -290,7 +290,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Kulkas \t\t:"/>
+            android:text="Kulkas \t\t\t\t\t\t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -304,7 +304,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Meubel \t\t:"/>
+            android:text="Meubel \t\t\t\t\t\t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -314,14 +314,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
-                android:layout_marginTop="10dp"
+                android:layout_marginTop="15dp"
                 android:gravity="center">
 
                 <Button
                     android:id="@+id/back"
                     android:layout_width="100dp"
                     android:layout_height="50dp"
-                    android:onClick="simpan"
+                    android:onClick="back"
                     android:text="Back"
                     android:layout_marginLeft="10dp"/>
 
@@ -329,7 +329,7 @@
                     android:layout_width="100dp"
                     android:layout_height="50dp"
                     android:id="@+id/next"
-                    android:onClick="simpan"
+                    android:onClick="next"
                     android:text="Next"
                     android:layout_marginRight="10dp"/>
 

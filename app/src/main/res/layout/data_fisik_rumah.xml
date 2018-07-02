@@ -40,7 +40,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Luas Bangunan \t\t:"/>
+                    android:text="Luas Bangunan \t\t\t\t:"/>
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -53,7 +53,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Luas Tanah \t:"/>
+                    android:text="Luas Tanah \t\t\t\t\t\t:"/>
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -67,7 +67,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Atap \t:"/>
+                    android:text="Atap \t\t\t\t\t\t\t\t\t\t:"/>
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -80,7 +80,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Lantai \t:"/>
+                    android:text="Lantai \t\t\t\t\t\t\t\t\t:"/>
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -93,7 +93,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Dinding \t:"/>
+                    android:text="Dinding \t\t\t\t\t\t\t\t\t:"/>
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -122,7 +122,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Jika Sewa Rp.  \t:"/>
+                    android:text="Jika Sewa Rp.  \t\t\t\t:"/>
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -135,7 +135,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Listrik....Kwh(Rp..../bulan) \t:"/>
+                    android:text="Listrik,Kwh,Rp./bulan\t:"/>
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -148,7 +148,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Kamar Mandi \t:"/>
+                    android:text="Kamar Mandi \t\t\t\t\t:"/>
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -161,7 +161,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Jamban \t:"/>
+                    android:text="Jamban \t\t\t\t\t\t\t\t:"/>
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -174,7 +174,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="PAM....Kdm(Rp..../bulan) \t:"/>
+                    android:text="PAM,Kdm,Rp./bulan \t:"/>
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -200,7 +200,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="TV,Inc,Merk \t:"/>
+                    android:text="TV,Inc,Merk \t\t\t\t\t:"/>
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -226,7 +226,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="VCD/DVD,Merk \t:"/>
+                    android:text="VCD/DVD,Merk \t\t\t:"/>
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -278,7 +278,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Kulkas,Pintu \t:"/>
+                    android:text="Kulkas,Pintu \t\t\t\t\t\t:"/>
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -291,7 +291,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Meubel,Merek \t:"/>
+                    android:text="Meubel,Merek \t\t\t\t:"/>
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

@@ -13,8 +13,18 @@ public class Homepage extends AppCompatActivity {
         setContentView(R.layout.homepage);
     }
 
+    public void biodata(View view) {
+        Intent biodata = new Intent(Homepage.this, TentangPengembang.class);
+        startActivity(biodata);
+    }
+
     public void formmustahik(View view) {
         Intent form = new Intent(Homepage.this, Datapripadi.class);
         startActivity(form);
+    }
+
+    public void petik(View view) {
+        Intent petik = new Intent(Homepage.this, TentangPeTIK.class);
+        startActivity(petik);
     }
 }

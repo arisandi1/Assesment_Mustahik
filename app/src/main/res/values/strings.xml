@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">AssessmentMustahik</string>
     <string-array name="Pilihpendtotal">
-        <item>--Pilih--</item>
+        <item>----Pilih----</item>
         <item>Tidak Memiliki Pendapatan Total</item>
         <item>Rp. 100.000,00 s.d Rp. 150.000,00</item>
         <item>Rp. 150.000,00 s.d Rp. 200.000,00</item>
@@ -15,11 +15,58 @@
     </string-array>
 
     <string-array name="pilihstatus">
-        <item>--Pilih--</item>
+        <item>----Pilih----</item>
         <item>Milik Sendiri</item>
         <item>Sewa</item>
         <item>Milik Kerabat</item>
         <item>Lain-lain</item>
     </string-array>
+
+    <string-array name="instpend">
+        <item>----Pilih----</item>
+        <item>Sesuai</item>
+        <item>Kurang Sesuai</item>
+        <item>Tidak Sesuai</item>
+    </string-array>
+
+    <string-array name="instpem">
+        <item>----Pilih----</item>
+        <item>Sesuai</item>
+        <item>Kurang Sesuai</item>
+        <item>Tidak Sesuai</item>
+    </string-array>
+
+    <string-array name="instag">
+        <item>----Pilih----</item>
+        <item>Sesuai</item>
+        <item>Kurang Sesuai</item>
+        <item>Tidak Sesuai</item>
+    </string-array>
+
+    <string name="tentangpetik">PeTIK</string>
+    <string name="tentangpetik1">Tentang PeTIK</string>
+    <string name="tentangpetik2">Pesantren Teknologi Informasi dan Komunikasi bermula dari keberadaan Lembaga Amil Zakat Infaq dan Shodaqoh PT PLN (Persero) Kantor Pusat (LAZIS PT PLN (Persero) Kantor Pusat)  yang dibentuk berdasarkan Keputusan Direksi Nomor 132.K/DIR/2006 Tanggal 11 September 2006 untuk mengelola dana zakat, infaq/ shodaqoh pegawai PLN Pusat.</string>
+    <string name="tentangpetik3">AWAL KEHADIRAN</string>
+    <string name="tentangpetik4">Berawal dari asa yang terpendam, dalam namun berakar sangat kuat. Akar yang berfundamen dan berpotensi untuk melahirkan spirit besar dan mulia. Merancang peradaban (baca, menghargai tinggi nilai-nilai kemanusiaan).
+Rancangan peradaban itu terkuak setelah Yayasan LAZIS PLN mencanangkan perlunya didirikan lembaga pendidikan berbasis teknologi informasi yang Islami. Gaung pencanangannya bersambut dan disambut oleh dinamika pemusyawaratan jajaran Pengurus Yayasan LAZIS PLN. Alhasil rencana pendirian pesantren berbasis teknologi informasi disetujui dan tersembulah nama Pesantren Teknologi Informasi dan Komunikasi atau disingkat PeTIK. Pesantren ini bebas biaya untuk Dhuafa. Tak lama setelah nama disepakati, berdirilah PeTIK seiring dengan penandatanganan  surat kerjasama antara Yayasan LAZIS PLN dan Yayasan Profesi Terpadu NURUL FIKRI dengan Surat Perjanjian Kerjasama : No. 009/Perjanjian-Dpk/LP3T Nurul Fikri/IX/2010 dan No. 06.Y/LAZIS/IX/2010, tentang Pengelolaan Pesantren Teknologi Informasi dan Komunikasi tanggal 14 Januari 2011. Surat perjanjian kerjasama ini berlaku surut mulai tanggal 22 November 2010.
+
+Pada awalnya sejak November 2010 proses belajar dan mengajar menempati Ruko dibilangan Cinere, Depok, kemudian pada bulan Februari 2011 menempati tanah dan bangunan seluas 725 meter persegi yang berlokasi di Jalan Mandor Basar  Nomor 54, RT. 01/001, Rangkepanjaya, Pancoran Mas, Kota Depok 16435, Jawa Barat. ( Belakang Masjid Dian Al-Mahri (Masjid Kubah Emas), Depok).
+Selang sebulan kemudian, tangal 11 Maret 2011, pemakaian Kampus PeTIK diresmikan oleh Direksi PLN yang diwakili oleh KDIV Pengembangan SDM dan Talenta.
+PeTIK menganut sistem boarding atau lebih dikenal dengan belajar dan bermukim. PeTIK didirikan dengan maksud untuk menjawab berbagai fenomena sosial yang ada ditengah-tengah masyarakat, di mana tidak sedikit masyarakat yang kurang mampu  kesulitan mendapatkan pendidikan ke jenjang yang lebih tinggi  (perguruan tinggi).  Hal ini disebabkan, antara lain, mahalnya biaya pendidikan dan tuntutan pemenuhan kebutuhan pokok harian untuk bertahan hidup yang juga tinggi (makan dan minum).
+Jika kita lihat ditengah-tengah masyarakat masih banyak orang-orang cerdas yang terabaikan hanya karena alasan klasik; ketidak-berdayaan atas tuntutan biaya tinggi. Tak heran, orang-orang yang mempunyai semangat belajar yang tinggi, semangatnya terbatasi. Batasan tersebut berdampak pada pengetahuan dan ketrampilan yang mereka miliki rendah, sehingga tidak pada posisi untuk bersaing diera global. Walhasil, rendahnya pengetahuan dan ketrampilan mereka, kelayakan mendapatkan pekerjaan hanya berujung digigitan jari.
+Lahirnya PeTIK untuk menjawab fenomena sosial yang ada di masyarakat, yakni membentuk anak bangsa yang tri-unggul. Cerdas beragama, cerdas intelektual, dan cerdas sosial.  Tujuan akhirnya, lahir generasi muda islam yang menguasai teknologi informasi dengan pemahaman tauhid yang lurus dan benar sesuai Alquran dan As-Sunnah. Menjadikan keduanya sebagai hukum dan ketetapan yang pasti dan tidak merubahnya.</string>
+    <string name="VisiMisi">VISI \nSebagai lembaga pendidikan terdepan yang memiliki keunggulan berbasis teknologi dan nilai-nilai keislaman.\n
+MISI\nMenyiapkan dan mengembangkan sumberdaya insani yang menguasai teknologi dan berakhlak mulia.
+Menjalankan sistem pendidikan teknologi yang berbasis pesantren.
+Menyediakan dan menggunakan perangkat teknologi pendidikan yang terbaru.
+Menghasilkan alumni yang memiliki daya saing dalam beberapa bidang keahlian.
+Memberikan nilai tambah dalam kehidupan umat manusia khususnya bidang teknologi informasi dan syiar Islam.\n
+TUJUAN\n
+Mencetak tenaga profesional di bidang teknologi informasi dan komunikasi yang cerdas, jujur, dapat dipercaya, komunikatif, santun, suka menolong, dan sabar.
+Menyelenggarakan pendidikan dan pengajaran dengan muatan kurikulum teknologi informasi dan komunikasi serta kajian aqidah, akhlaq dan fiqh.
+Mampu menerapkan perangkat keras dan perangkat lunak terbaru dalam memperbaharui pengetahuan dan keterampilannya dalam mengelola proses pendidikan dan pengajaran.
+Mempersiapkan peran alumni sebagai pekerja dan wirausahawan bidang teknologi informasi dan komunikasi yang berkinerja tinggi dan mandiri.
+Mempersiapkan kader-kader pembangunan yang mandiri, sadar dan bertanggung jawab atas peningkatan kesejahteraan masyarakat sekitarnya.\nMOTO\n
+CREATES FUTURE SKILLED PROFESSIONALS</string>
 
 </resources>

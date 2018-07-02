@@ -31,7 +31,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Beras\t:"/>
+            android:text="Beras \t\t\t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -59,7 +59,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Sayuran\t:"/>
+            android:text="Sayuran \t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -73,7 +73,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Lain-lain\t:"/>
+            android:text="Lain-lain \t\t:"/>
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -90,7 +90,7 @@
             android:id="@+id/back"
             android:layout_width="100dp"
             android:layout_height="50dp"
-            android:onClick="simpan"
+            android:onClick="back"
             android:text="Back"
             android:layout_marginLeft="10dp"/>
 
@@ -98,7 +98,7 @@
             android:layout_width="100dp"
             android:layout_height="50dp"
             android:id="@+id/next"
-            android:onClick="simpan"
+            android:onClick="next"
             android:text="Next"
             android:layout_marginRight="10dp"/>
 

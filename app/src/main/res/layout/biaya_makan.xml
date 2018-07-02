@@ -30,7 +30,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Beras,Liter \t\t:"/>
+            android:text="Beras \t\t\t\t\t:"/>
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -56,7 +56,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Sayuran \t\t:"/>
+            android:text="Sayuran \t\t\t:"/>
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -69,7 +69,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Lain-lain \t\t:"/>
+            android:text="Lain-lain \t\t\t:"/>
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="petik.or.arisandi.id.assessmentmustahik.TentangPeTIK">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/article_petik"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:padding="10dp"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        android:textStyle="bold"
+        android:text="@string/tentangpetik"
+        android:textAlignment="center"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/article_subheading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/article_petik"
+        android:padding="10dp"
+        android:textAlignment="center"
+        android:textAppearance="@android:style/TextAppearance"
+        android:text="@string/tentangpetik1"/>
+
+    <TextView
+        android:id="@+id/article"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/article_subheading"
+        android:lineSpacingExtra="5sp"
+        android:text="@string/tentangpetik2"/>
+    <TextView
+        android:id="@+id/articlepetik1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textAlignment="center"
+        android:textAppearance="@android:style/TextAppearance"
+        android:text="@string/tentangpetik3"
+        android:layout_below="@+id/article"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <TextView
+        android:id="@+id/article2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/articlepetik1"
+        android:lineSpacingExtra="5sp"
+        android:text="@string/tentangpetik4"/>
+
+        <TextView
+            android:id="@+id/article3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/article2"
+            android:lineSpacingExtra="5sp"
+            android:text="@string/VisiMisi"/>
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="74dp"
+            android:layout_height="47dp"
+            android:text="Back"
+            android:textColor="#000"
+            android:layout_gravity="center"
+            android:onClick="back"/>
+
+    </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="petik.or.arisandi.id.assessmentmustahik.TentangPengembang">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#299965">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:text="Personal Details"
+            android:textAlignment="center"
+            android:textColor="#fff"
+            android:textStyle="italic"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="191dp"
+        android:src="@drawable/ars" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Nama \t\t: Arisandi \n Alamat \t: Sinjai,Makassar,Sulawesi Selatan \n No. Telp\t: 085345802167\n Email \t\t: Sandi.arisfficial@gmail.com \n TTL \t\t\t: Sinjai,01 Juli 1997\n Hobby\t\t: Menonton dan Membaca"
+        android:layout_marginTop="10dp"
+        android:textColor="#000"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="74dp"
+        android:layout_height="47dp"
+        android:text="Back"
+        android:textColor="#000"
+        android:layout_gravity="center"
+        android:onClick="back"/>
+
+
+</LinearLayout>

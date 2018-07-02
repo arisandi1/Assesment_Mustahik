@@ -41,39 +41,13 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Nama \t\t:"/>
+                        android:text="No Identitas \t\t\t\t\t\t:"/>
                     <EditText
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:id="@+id/nama"/>
+                        android:id="@+id/nomor_identitas"/>
                 </LinearLayout>
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:orientation="horizontal">
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:text="KTP \t\t\t\t:"/>
-                    <RadioGroup
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:id="@+id/noktp"
-                        android:orientation="horizontal">
-                        <RadioButton
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="Tetap"/>
-                        <RadioButton
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="Sementara"/>
-                        <RadioButton
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="Tidak Punya"/>
-                    </RadioGroup>
-                </LinearLayout>
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -81,11 +55,11 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="No. KTP \t:"/>
+                    android:text="Nama \t\t\t\t\t\t\t\t\t\t:"/>
                 <EditText
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:id="@+id/ktp"/>
+                    android:id="@+id/nama"/>
                 </LinearLayout>
 
                 <LinearLayout
@@ -95,7 +69,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Tempat Lahir \t:"/>
+                        android:text="Tempat Lahir \t\t\t\t\t\t:"/>
                     <EditText
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -108,7 +82,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Tanggal Lahir \t:"/>
+                        android:text="Tanggal Lahir \t\t\t\t\t\t:"/>
                     <EditText
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -121,7 +95,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Pekerjaan \t:"/>
+                        android:text="Pekerjaan \t\t\t\t\t\t\t\t:"/>
                     <EditText
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -134,7 +108,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Pendidikan \t:"/>
+                        android:text="Pendidikan \t\t\t\t\t\t\t:"/>
                     <EditText
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -147,7 +121,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Alamat \t:"/>
+                        android:text="Alamat \t\t\t\t\t\t\t\t\t\t:"/>
                     <EditText
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -160,7 +134,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Desa/Kelurahan \t:"/>
+                        android:text="Desa/Kelurahan \t\t\t\t:"/>
                     <EditText
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -173,7 +147,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Kecamatan \t:"/>
+                        android:text="Kecamatan \t\t\t\t\t\t\t:"/>
                     <EditText
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -199,7 +173,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Provinsi \t:"/>
+                        android:text="Provinsi \t\t\t\t\t\t\t\t\t:"/>
                     <EditText
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"

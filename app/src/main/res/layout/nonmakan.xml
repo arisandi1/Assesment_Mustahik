@@ -26,7 +26,8 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal">
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp">
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -43,7 +44,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Kesehatan \t\t:"/>
+            android:text="Kesehatan \t\t\t\t:"/>
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -56,7 +57,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Pendidikan \t\t:"/>
+            android:text="Pendidikan \t\t\t:"/>
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -69,7 +70,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Pinjaman\t\t:"/>
+            android:text="Pinjaman \t\t\t\t:"/>
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -82,7 +83,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Lain-lain\t\t:"/>
+            android:text="Lain-lain \t\t\t\t\t:"/>
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
